@@ -9,3 +9,6 @@ Team OverChaos is a Capstone Design project team, in 2023 fall semester of [Chun
 ### Projects
 #### Algogather -- 2023-Fall semester project
 Algogather is a project for algorithm/ps study group management, with automatic assignment checking.
+
+#### Bidrum -- 2024-Spring semester project
+Bidrum is an arcade rhythm game project using Janggu(Korean traditional drum)-like controller.
